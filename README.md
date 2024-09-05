@@ -10,6 +10,17 @@ Dataset consists of 5 tables and sales data ranges from 2017 to 2020
 - **3]** Markets — markets_code, markets_name, zone.
 - **4]** Products — product_code, product_type.
 - **5]** Transactions — product_code, customer_code, market_code, order_date, sales_qty, sales_amount, currency.
+## Steps Involved : 
+#### Data Analysis using MySQL
+Connected and import data in Mysql database and work on raw data, executed SQL commands.
+### Data Cleaning and ETL(Extract, Transform, & Load)
+       - Cleaning the dataset with unnecassary and duplicate records
+       - Formating the currency to INR in Power Query Editor 
+       - Filter the required attribute in all the tables and formating the data types of the columns
+       - Building relationship between tables using Data Modeling and connecting the primary key with attributes
+### Creating Report in PowerBI
+   Visualizaing the data with different charts to analysis the pattern and trends in markets and working on DAX measures will provide more details insights to the stakeholders 
+
 ## Overview of key sales metrics:
 - 75% of the customer contribute to Brick & mortor and 25% to E-commerce.
 - South zone region sell the product with 5.81% profit margin and 16% quantity,central contributes 31% in quantity and 3.25% for profit margin followed by North 2.23% profit margin and 52% Quantity 
