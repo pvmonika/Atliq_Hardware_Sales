@@ -11,10 +11,10 @@ Dataset consists of 5 tables and sales data ranges from 2017 to 2020
 - **4]** Products — product_code, product_type.
 - **5]** Transactions — product_code, customer_code, market_code, order_date, sales_qty, sales_amount, currency.
 ## Overview of key sales metrics:
-**•**	75% of the customer contribute to Brick & mortor and 25% to E-commerce.
-**•**	South zone region sell the product with 5.81% profit margin and 16% quantity,central contributes 31% in quantity and 3.25% for profit margin followed by North 2.23% profit margin and 52% Quantity 
-**•** Total quantity of products sold amounts to 2.43 million (M).
-**•** The YoY sales growth stands at 142.22 million (M), representing a negative deviation of 57.67% from the target of 336.02 million (M). 
+- 75% of the customer contribute to Brick & mortor and 25% to E-commerce.
+- South zone region sell the product with 5.81% profit margin and 16% quantity,central contributes 31% in quantity and 3.25% for profit margin followed by North 2.23% profit margin and 52% Quantity 
+- Total quantity of products sold amounts to 2.43 million (M).
+- The YoY sales growth stands at 142.22 million (M), representing a negative deviation of 57.67% from the target of 336.02 million (M). 
 
 
 
