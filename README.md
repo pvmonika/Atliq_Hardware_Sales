@@ -17,9 +17,24 @@ Connected and import data in Mysql database and work on raw data, executed SQL c
        - Cleaning the dataset with unnecassary and duplicate records
        - Formating the currency to INR in Power Query Editor 
        - Filter the required attribute in all the tables and formating the data types of the columns
-       - Building relationship between tables using Data Modeling and connecting the primary key with attributes
+       - Building relationship between tables using Data Modeling and connecting the primary key with attributes.
+       
+![image](https://github.com/user-attachments/assets/c33dde1d-7dee-4457-a76a-4746ff9c5b5b)
+
 ### Creating Report in PowerBI
-   Visualizaing the data with different charts to analysis the pattern and trends in markets and working on DAX measures will provide more details insights to the stakeholders 
+   Visualizaing the data with different charts to analysis the pattern and trends in markets and working on DAX measures will provide more details insights to the stakeholders.
+   - **Sales Insights**
+     
+![Screenshot 2024-09-06 171313](https://github.com/user-attachments/assets/392ea34c-da9e-4cdc-9f2a-aef71712bfb1)
+
+   - **Zone Performance**
+     
+![Screenshot 2024-09-06 171330](https://github.com/user-attachments/assets/f054e155-5fc6-40b7-a617-a6dbc053ead9)
+
+   - **KPI**
+     
+![Screenshot 2024-09-06 171345](https://github.com/user-attachments/assets/b63df0a6-e52f-4879-bbf0-4535727524ba)
+
 
 ## Overview of key sales metrics:
 - 75% of the customer contribute to Brick & mortor and 25% to E-commerce.
