@@ -44,7 +44,9 @@ Connected and import data in Mysql database and work on raw data, executed SQL c
 - **Quantity Contribution** : 76% of quantity are contributed by Brick & mortor followed by E-commerce is 24% 
 - **Profit Contribution** : 64% of Profit are contributed by Brick & mortor followed by E-commerce is 35%
 - **Revenue Contribution** : Mumbai,Nagpur, Ahmedabad, Bhopal are Contributing 17% to the business
-- **Product Type** :  Own Brand is contributes 55% more than  Distribution type which is 28% 
+- **Product Type** :  Own Brand is contributes 55% more than  Distribution type which is 28%
+
+### Live Dashboard
 
 ## Tools, Softwares, and Libraries
 - MySQL WorkBench
