@@ -26,6 +26,10 @@ Connected and import data in Mysql database and work on raw data, executed SQL c
 - South zone region sell the product with 5.81% profit margin and 16% quantity,central contributes 31% in quantity and 3.25% for profit margin followed by North 2.23% profit margin and 52% Quantity 
 - Total quantity of products sold amounts to 2.43 million (M).
 - The YoY sales growth stands at 142.22 million (M), representing a negative deviation of 57.67% from the target of 336.02 million (M).
+- **Quantity Contribution** : 76% of quantity are contributed by Brick & mortor followed by E-commerce is 24% 
+- **Profit Contribution** : 64% of Profit are contributed by Brick & mortor followed by E-commerce is 35%
+- **Revenue Contribution** : Mumbai,Nagpur, Ahmedabad, Bhopal are Contributing 17% to the business
+- **Product Type** :  Own Brand is contributes 55% more than  Distribution type which is 28% 
 
 ## Tools, Softwares, and Libraries
 - MySQL WorkBench
