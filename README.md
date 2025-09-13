@@ -23,6 +23,8 @@ Connected and import data in Mysql database and work on raw data, executed SQL c
 
 ### Creating Report in PowerBI
    Visualizaing the data with different charts to analysis the pattern and trends in markets and working on DAX measures will provide more details insights to the stakeholders.
+### Live Dashboard
+
    - **Sales Insights**
      
 ![Screenshot 2024-09-06 171313](https://github.com/user-attachments/assets/392ea34c-da9e-4cdc-9f2a-aef71712bfb1)
@@ -46,7 +48,6 @@ Connected and import data in Mysql database and work on raw data, executed SQL c
 - **Revenue Contribution** : Mumbai,Nagpur, Ahmedabad, Bhopal are Contributing 17% to the business
 - **Product Type** :  Own Brand is contributes 55% more than  Distribution type which is 28%
 
-### Live Dashboard
 
 ## Tools, Softwares, and Libraries
 - MySQL WorkBench
